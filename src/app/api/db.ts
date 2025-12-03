@@ -1,0 +1,17 @@
+export const books = [
+    { id: 1, title: "To Kill a Mockingbird", author: "Harper Lee", year: 1960, genre: "Fiction" },
+    { id: 2, title: "1984", author: "George Orwell", year: 1949, genre: "Dystopian" },
+    { id: 3, title: "Pride and Prejudice", author: "Jane Austen", year: 1813, genre: "Romance" },
+    { id: 4, title: "The Great Gatsby", author: "F. Scott Fitzgerald", year: 1925, genre: "Fiction" },
+    { id: 5, title: "Harry Potter and the Sorcerer's Stone", author: "J.K. Rowling", year: 1997, genre: "Fantasy" },
+    { id: 6, title: "The Catcher in the Rye", author: "J.D. Salinger", year: 1951, genre: "Fiction" },
+    { id: 7, title: "The Hobbit", author: "J.R.R. Tolkien", year: 1937, genre: "Fantasy" },
+    { id: 8, title: "Fahrenheit 451", author: "Ray Bradbury", year: 1953, genre: "Dystopian" },
+    { id: 9, title: "Jane Eyre", author: "Charlotte Brontë", year: 1847, genre: "Romance" },
+    { id: 10, title: "Animal Farm", author: "George Orwell", year: 1945, genre: "Political Satire" },
+    { id: 11, title: "The Lord of the Rings", author: "J.R.R. Tolkien", year: 1954, genre: "Fantasy" },
+    { id: 12, title: "Brave New World", author: "Aldous Huxley", year: 1932, genre: "Dystopian" },
+    { id: 13, title: "Moby-Dick", author: "Herman Melville", year: 1851, genre: "Adventure" },
+    { id: 14, title: "The Chronicles of Narnia", author: "C.S. Lewis", year: 1950, genre: "Fantasy" },
+    { id: 15, title: "Wutheri ng Heights", author: "Emily Brontë", year: 1847, genre: "Romance" },
+];
