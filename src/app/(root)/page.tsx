@@ -1,8 +1,7 @@
 import React from "react";
-import Hello from "../components/hello";
+import Hello from "../../components/hello";
 
 const Home = () => {
-  console.log("WHAT AM I");
   return (
     <main>
       <Hello />
